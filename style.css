@@ -71,8 +71,18 @@ h1 {
   color: #444;
   margin: 20px 0;
 }
+nav {
+  margin-bottom: 20px;
+}
 
+nav a {
+  margin: 0 8px;
+  text-decoration: none;
+  color: #0a3d62;
+  font-weight: bold;
+}
 .footer {
   font-size: 12px;
   color: #777;
 }
+
